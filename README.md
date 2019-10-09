@@ -2,7 +2,7 @@
 
 Also available from : https://www.thingiverse.com/thing:3383638
 
-![](https://raw.githubusercontent.com/yet-another-average-joe/The-Smart-Spool-Holder/master/images/The%20Smart%20Spool%20Holder.png?token=AKL7X5SHSDGXA3GTAUUPYBS5TYA2C)
+![](https://raw.githubusercontent.com/yet-another-average-joe/The-Smart-Spool-Holder/master/images/The%20Smart%20Spool%20Holder.png?token=AKL7X5UVTA55P2UDJS6BT3K5TYBSC)
 
 (voir plus bas pour description en français)
 
