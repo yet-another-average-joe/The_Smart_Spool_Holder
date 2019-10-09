@@ -1,5 +1,7 @@
 # The-Smart-Spool-Holder
 
+Also available from : https://www.thingiverse.com/thing:3383638
+
 (voir plus bas pour description en français)
 
 [EN]
