@@ -21,6 +21,7 @@ However, the reinvention of the wheel being my favorite hobby, this concept may 
 You will need :
 
 1x screw M8x45
+
 1x washer M8
 1x screw M6x30, capscrew
 1x screw M6x25, countersunk
