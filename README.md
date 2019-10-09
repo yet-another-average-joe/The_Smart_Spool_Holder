@@ -20,21 +20,21 @@ However, the reinvention of the wheel being my favorite hobby, this concept may 
 
 You will need :
 
-1x screw M8x45
-1x washer M8
-1x screw M6x30, capscrew
-1x screw M6x25, countersunk
-1x nut M8, Nylock
-2x nut M6, Nylock
-4x screw M3x6
-4x screw M3x12
-4x washer M3
-1x screw M5x6
-1x hammer nut M5
-210mm Teflon tubing
-1200mm 2 wire cable, Dupont female ended
-drillbits : 2mm and 4mm
-2x KW12-3 microswitch
+- 1x screw M8x45
+- 1x washer M8
+- 1x screw M6x30, capscrew
+- 1x screw M6x25, countersunk
+- 1x nut M8, Nylock
+- 2x nut M6, Nylock
+- 4x screw M3x6
+- 4x screw M3x12
+- 4x washer M3
+- 1x screw M5x6
+- 1x hammer nut M5
+- 210mm Teflon tubing
+- 1200mm 2 wire cable, Dupont female ended
+- drillbits : 2mm and 4mm
+- 2x KW12-3 microswitch
 
 [FR]
 
@@ -50,18 +50,18 @@ Ceci dit, la réinvention de la roue étant mon hobby favori, ce concept existe 
 
 Il vous faudra :
 
-1x vis M8x45
-1x rondelle M8
-1x vis M6x30, CHC
-1x screw M6x25, FHC
-1x écrou M8, Nylstop
-2x écrou M6, Nylstop
-4x vis M3x6
-4x vis M3x12
-4x rondelles M3
-1x vis M5x6
-1x hammer nut M5
-210mm de tube Teflon 4x2mm (ou Capricorn)
-1200mm de fil 2 conducteurs avec connecteur Dupont femelle
-forets : 2mm et 4mm
-2x KW12-3 microswitch
+- 1x vis M8x45
+- 1x rondelle M8
+- 1x vis M6x30, CHC
+- 1x screw M6x25, FHC
+- 1x écrou M8, Nylstop
+- 2x écrou M6, Nylstop
+- 4x vis M3x6
+- 4x vis M3x12
+- 4x rondelles M3
+- 1x vis M5x6
+- 1x hammer nut M5
+- 210mm de tube Teflon 4x2mm (ou Capricorn)
+- 1200mm de fil 2 conducteurs avec connecteur Dupont femelle
+- forets : 2mm et 4mm
+- 2x KW12-3 microswitch
